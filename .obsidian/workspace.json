@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Title.md",
+                "file": "_notes/اقتصادي.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Title.md",
+                "file": "_notes/اقتصادي.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Title.md",
+                "file": "_notes/اقتصادي.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Title.md"
+                "file": "_notes/اقتصادي.md"
               }
             }
           },
@@ -173,7 +173,7 @@
     "_notes/guide.md",
     "_notes/move your body every day.md",
     "_notes/Obsidian.md",
-    "_notes/Title.md",
+    "_notes/اقتصادي.md",
     "_notes/a note about cats.md",
     "_site/a-note-about-cats.html",
     "_site/:slug.md",
