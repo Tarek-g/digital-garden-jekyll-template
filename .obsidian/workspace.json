@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/عربي.md",
+                "file": "_notes/your-first-note.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/عربي.md",
+                "file": "_notes/your-first-note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/عربي.md",
+                "file": "_notes/your-first-note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,17 +133,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/عربي.md"
+                "file": "_notes/your-first-note.md"
               }
+            }
+          },
+          {
+            "id": "0e5700761b1645ab",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,6 +167,7 @@
   },
   "active": "d469a7d78d39f089",
   "lastOpenFiles": [
+    "_notes/عربي.md",
     "_site/عربي.html",
     "_notes/guide.md",
     "_notes/move your body every day.md",
@@ -170,7 +178,6 @@
     "_site/a-note-about-cats.html",
     "_site/:slug.md",
     "_site/cc.html",
-    "_notes/عربي.md",
     "_site/title.html",
     "_notes/Configure a new vault.md",
     "_site/11.html",
